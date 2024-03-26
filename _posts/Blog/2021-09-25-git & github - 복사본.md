@@ -1,0 +1,23 @@
+---
+title:  "1주차 수업" 
+excerpt: "note"
+
+categories:
+  - Blog
+tags:
+  - [Blog, Git, Github,]
+
+toc: true
+toc_sticky: true
+ 
+date: 2024-03-25
+last_modified_at: 2024-03-25
+
+---
+
+
+## 1차시
+
+
+## 2차시
+
