@@ -1,6 +1,6 @@
 ---
-title:  "chapter 1 첫 게시물 예시" 
-excerpt: "첫 게시물 예시"
+title:  "About me!" 
+excerpt: "자기소개"
 
 categories:
   - Blog
@@ -10,8 +10,8 @@ tags:
 toc: true
 toc_sticky: true
  
-date: 2020-09-25
-last_modified_at: 2020-09-25
+date: 2024-03-25
+last_modified_at: 2024-03-25
 
 ---
 
