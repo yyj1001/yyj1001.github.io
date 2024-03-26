@@ -1,7 +1,7 @@
 ---
-title: "note"
+title: "Note"
 layout: archive
-permalink: categories/note
+permalink: categories/Note
 author_profile: true
 sidebar_main: true
 ---
