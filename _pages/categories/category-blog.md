@@ -1,5 +1,5 @@
 ---
-title: "Jekyll/Github 블로그 만들기"
+title: "Blog"
 layout: archive
 permalink: categories/blog
 author_profile: true
